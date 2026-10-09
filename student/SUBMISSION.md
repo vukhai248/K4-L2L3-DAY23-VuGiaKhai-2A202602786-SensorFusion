@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Vũ Gia Khải
+- MSSV: 2A202602786
+- Email: khailv@example.com
+- Link repo (fork): https://github.com/vukhai248/K4-Track4-Day23-Sensor-Fusion-Student
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
