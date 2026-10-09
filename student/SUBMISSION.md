@@ -6,8 +6,8 @@
 
 - Họ tên: Vũ Gia Khải
 - MSSV: 2A202602786
-- Email: khailv@example.com
-- Link repo (fork): https://github.com/vukhai248/K4-Track4-Day23-Sensor-Fusion-Student
+- Email: 26ai.khaivg@vinuni.edu.vn
+- Link repo (fork): https://github.com/vukhai248/K4-L2L3-DAY23-VuGiaKhai-2A202602786-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`): 2464c06283ee91f2a41d91aa67fa6380ea77f44a
 
 ## Tóm tắt kết quả
